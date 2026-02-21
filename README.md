@@ -44,14 +44,5 @@ Power BI interactive dashboard with:
 ## 👨‍💻 Author
 **MuthuKrishnan M**
 AI & Gen AI Enthusiast | SQL | Power BI | Python
-🔗 LinkedIn: [Your LinkedIn URL]
-```
+🔗 LinkedIn: [https://www.linkedin.com/in/muthukrishnan-m-938947298/]
 
----
-
-## ✅ Also Upload Dashboard Screenshot!
-```
-→ Take screenshot of Power BI dashboard
-→ Save as "dashboard_screenshot.png"
-→ Upload to GitHub
-→ Recruiters can SEE your work directly!
