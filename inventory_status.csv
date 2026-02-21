@@ -1,0 +1,6 @@
+product_name,stock_quantity,reorder_level,warehouse_location,stock_status
+"iPhone 15",50,20,"Mumbai Warehouse","Stock OK"
+"Samsung TV 55"",30,10,"Delhi Warehouse","Stock OK"
+"Nike Running Shoes",150,50,"Chennai Warehouse","Stock OK"
+"Instant Pot",75,25,"Bangalore Warehouse","Stock OK"
+"Harry Potter Set",200,100,"Mumbai Warehouse","Stock OK"

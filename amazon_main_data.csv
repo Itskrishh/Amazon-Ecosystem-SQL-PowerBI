@@ -1,0 +1,8 @@
+customer_name,city,segment,category,product_name,order_date,order_status,payment_method,quantity,unit_price,revenue,stock_quantity,reorder_level,stock_status
+"Rahul Sharma",Mumbai,Premium,Electronics,"iPhone 15",2024-01-10,Delivered,"Credit Card",1,79999.00,79999.00,50,20,"Stock OK"
+"Priya Singh",Delhi,Regular,Electronics,"iPhone 15",2024-04-01,Delivered,UPI,1,79999.00,79999.00,50,20,"Stock OK"
+"Arun Kumar",Chennai,New,Electronics,"Samsung TV 55"",2024-02-01,Cancelled,"Debit Card",1,55000.00,55000.00,30,10,"Stock OK"
+"Rahul Sharma",Mumbai,Premium,Electronics,"Samsung TV 55"",2024-03-15,Delivered,"Credit Card",1,55000.00,55000.00,30,10,"Stock OK"
+"Priya Singh",Delhi,Regular,Fashion,"Nike Running Shoes",2024-01-15,Delivered,UPI,2,4999.00,9998.00,150,50,"Stock OK"
+"Sneha Patel",Ahmedabad,Premium,Kitchen,"Instant Pot",2024-02-20,Delivered,"Credit Card",1,6999.00,6999.00,75,25,"Stock OK"
+"Vikram Nair",Bangalore,Regular,Books,"Harry Potter Set",2024-03-05,Returned,UPI,3,1999.00,5997.00,200,100,"Stock OK"

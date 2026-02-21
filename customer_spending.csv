@@ -1,0 +1,6 @@
+customer_name,city,segment,total_orders,total_spent
+"Rahul Sharma",Mumbai,Premium,2,134999.00
+"Priya Singh",Delhi,Regular,2,89997.00
+"Arun Kumar",Chennai,New,1,55000.00
+"Sneha Patel",Ahmedabad,Premium,1,6999.00
+"Vikram Nair",Bangalore,Regular,1,5997.00
