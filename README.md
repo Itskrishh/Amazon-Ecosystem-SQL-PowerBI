@@ -39,7 +39,10 @@ Power BI interactive dashboard with:
 - 📄 amazon_ecosystem.sql — Database & Tables
 - 📄 analysis_queries.sql — All 17 SQL Queries
 - 📄 amazon_main_data.csv — Main Dataset
-- 🖼️ dashboard_screenshot.png — Power BI Dashboard
+
+  🎨 Dashboard Preview
+  https://github.com/Itskrishh/Amazon-Ecosystem-SQL-PowerBI/blob/9bfae5ed8292f186fe4dbe352b021e2a32d32922/dashboard_screenshot.pn1g.png
+
 
 ## 👨‍💻 Author
 **MuthuKrishnan M**
