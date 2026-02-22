@@ -41,8 +41,7 @@ Power BI interactive dashboard with:
 - 📄 amazon_main_data.csv — Main Dataset
 
   🎨 Dashboard Preview
-  https://github.com/Itskrishh/Amazon-Ecosystem-SQL-PowerBI/blob/9bfae5ed8292f186fe4dbe352b021e2a32d32922/dashboard_screenshot.pn1g.png
-
+  ![image alt]_(https://github.com/Itskrishh/Amazon-Ecosystem-SQL-PowerBI/blob/9bfae5ed8292f186fe4dbe352b021e2a32d32922/dashboard_screenshot.pn1g.png)
 
 ## 👨‍💻 Author
 **MuthuKrishnan M**
